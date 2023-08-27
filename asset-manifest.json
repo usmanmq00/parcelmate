@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/parcelmate/static/css/main.65076114.css",
+    "main.js": "/parcelmate/static/js/main.8be4a2c2.js",
+    "static/js/787.ddd631a6.chunk.js": "/parcelmate/static/js/787.ddd631a6.chunk.js",
+    "index.html": "/parcelmate/index.html",
+    "main.65076114.css.map": "/parcelmate/static/css/main.65076114.css.map",
+    "main.8be4a2c2.js.map": "/parcelmate/static/js/main.8be4a2c2.js.map",
+    "787.ddd631a6.chunk.js.map": "/parcelmate/static/js/787.ddd631a6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.65076114.css",
+    "static/js/main.8be4a2c2.js"
+  ]
+}
